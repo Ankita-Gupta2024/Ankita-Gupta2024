@@ -1,3 +1,11 @@
+# Ankita Gupta – Software Engineer | Cloud & Data Specialist
+
+Welcome to my GitHub! I'm a New York-based software engineer with a strong foundation in cloud computing, data pipelines, and full-stack development. I specialize in scalable solutions using AWS, GCP, Python, and React. This profile showcases hands-on projects in machine learning, cybersecurity, and software architecture.
+
+If you're looking for a developer experienced in deploying robust systems and collaborating with cross-functional teams, you’re in the right place.
+
+---
+
 # Hi, I'm Ankita Gupta 👩‍💻
 
 A software engineer passionate about clean code, data pipelines, and making systems scale. I bring 3+ years of experience working with top US pharma clients and cutting-edge tools in cloud, ML, and DevOps.
@@ -18,4 +26,3 @@ A software engineer passionate about clean code, data pipelines, and making syst
 - [LinkedIn](https://linkedin.com/in/ag9135)
 - [GitHub](https://github.com/Ankita-Gupta2024)
 - 📧 ankitagupta9135@gmail.com
-
