@@ -24,8 +24,9 @@ A software engineer passionate about clean code, data pipelines, and making syst
 
 ## 📜 Certifications
 
-[![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS_ML-Specialty-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f9d5fd32-fbb6-453e-b7c3-795a0e850bb9/linked_in_profile)
-[![IBM Certified watsonx Generative AI Engineer - Associate](https://img.shields.io/badge/IBM_watsonx_GenAI-Associate-blue?logo=ibm&logoColor=white)](https://www.credly.com/badges/95c5ffe7-a2d0-4da3-999f-96c64aa9a5aa/linked_in_profile)
+- ![AWS Logo](https://img.icons8.com/color/24/000000/amazon-web-services.png) [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/f9d5fd32-fbb6-453e-b7c3-795a0e850bb9/linked_in_profile)
+- ![IBM Logo](https://img.icons8.com/color/24/000000/ibm.png) [IBM Certified watsonx Generative AI Engineer - Associate](https://www.credly.com/badges/95c5ffe7-a2d0-4da3-999f-96c64aa9a5aa/linked_in_profile)
+
 
 
 ## 📫 Let's Connect
