@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ankita Gupta 👩‍💻
 
-<!--
-**Ankita-Gupta2024/Ankita-Gupta2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer passionate about clean code, data pipelines, and making systems scale. I bring 3+ years of experience working with top US pharma clients and cutting-edge tools in cloud, ML, and DevOps.
 
-Here are some ideas to get you started:
+📍 **Brooklyn, NY**  
+🧠 **MS in Computer Engineering @ NYU**  
+💼 **Previously @ ZS Associates | Currently @ Easley Dunn Productions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Projects
+- **🔐 Malware Detection Using CNNs** – Built a CNN model classifying malware images with 95%+ accuracy.
+- **🎧 Music Recommender System** – Web-scraped and built ALS/LightFM models with massive accuracy improvements.
+- **🏦 Bank Management System** – React + Flask app with RBAC and security best practices.
+
+## 💡 Tech Stack
+`Python` `Java` `C++` `React` `Flask` `SQL` `AWS` `GCP` `PySpark` `Kubernetes` `Docker`
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/ag9135)
+- [GitHub](https://github.com/Ankita-Gupta2024)
+- 📧 ankitagupta9135@gmail.com
+
